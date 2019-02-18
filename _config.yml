@@ -1,5 +1,5 @@
 # Site settings
-title: ZYL Blog
+title: a little
 SEOTitle: 张玉龙的博客 | ZYL Blog
 header-img: img/home-bg.jpg
 email: 574893508@qq.com
@@ -115,7 +115,7 @@ friends: [
         title: "iteye.com",
         href: "https://zhangyulong.iteye.com"
     },{
-        title: "张玉龙",
+        title: "zhangyulong.com",
         href: "https://www.zhangyulong.com/"
     } 
 ]
