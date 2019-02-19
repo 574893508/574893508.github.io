@@ -3,7 +3,8 @@ layout: post
 title: " Unity常用快捷键一览"
 subtitle: ' Unity常用快捷键一览'
 author: "Zyl"
-header-style: text
+header-img: "img/home-bg.jpg"
+header-mask: 0.2
 tags:
   - Unity
 ---

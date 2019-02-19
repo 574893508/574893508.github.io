@@ -3,7 +3,8 @@ layout: post
 title: "使用 ffmpeg 实现 MP4 与 GIF 的互转"
 subtitle: ''
 author: "Zyl"
-header-style: text
+header-img: "img/home-bg.jpg"
+header-mask: 0.2
 lang: en
 tags:
   - ffmpeg
